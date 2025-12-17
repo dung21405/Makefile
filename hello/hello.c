@@ -3,4 +3,5 @@
 void say_hello()
 {
 	puts("hello world.\n");
+	printf("Hello 1");
 }
